@@ -26,7 +26,7 @@ public class DZ_6_zadanie {
         System.out.println("Минимальное число в списке: " + min);
         System.out.println("Максимальное число в списке: " + max);
         System.out.println("Среднее арифметическое число в списке: " + sum/count);
-        // System.out.println(Collections.min(myList));
+        // 
         // System.out.println(Collections.max(myList));
 
         Iterator<Integer> col = myList.iterator();
